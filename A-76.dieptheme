@@ -1,49 +1,211 @@
 {
-    "name": "A-76",
+    "name": "A76",
     "author": "A76",
+    "version": 2,
     "values": {
-        "ffaFriendlyColor": "51E7CB",
-        "ffaEnemyColor": "443A44",
-        "blueTeamColor": "9EECFF",
-        "redTeamColor": "FE9FA2",
-        "purpleTeamColor": "D8A9FE",
-        "greenTeamColor": "9AFECA",
-        "fallenBossColor": "8C0000",
-        "arenaCloserColor": "FFFFC4",
-        "cannonColor": "D1D1D1",
-        "smasherColor": "2C3035",
-        "squareColor": "999999",
-        "triangleColor": "777777",
-        "pentagonColor": "575757",
-        "shinyShapeColor": "00FFFF",
-        "crasherColor": "FF00AA",
-        "necroDroneColor": "D1D1D1",
-        "backgroundColor": "ABADA6",
-        "gridColor": "6A6A6A",
+        "ffaFriendlyColor": [
+            81,
+            231,
+            203
+        ],
+        "ffaEnemyColor": [
+            68,
+            58,
+            68
+        ],
+        "blueTeamColor": [
+            158,
+            236,
+            255
+        ],
+        "redTeamColor": [
+            254,
+            159,
+            162
+        ],
+        "purpleTeamColor": [
+            216,
+            169,
+            254
+        ],
+        "greenTeamColor": [
+            154,
+            254,
+            202
+        ],
+        "fallenBossColor": [
+            140,
+            0,
+            0
+        ],
+        "arenaCloserColor": [
+            255,
+            255,
+            196
+        ],
+        "cannonColor": [
+            209,
+            209,
+            209
+        ],
+        "smasherColor": [
+            44,
+            48,
+            53
+        ],
+        "squareColor": [
+            153,
+            153,
+            153
+        ],
+        "triangleColor": [
+            119,
+            119,
+            119
+        ],
+        "pentagonColor": [
+            87,
+            87,
+            87
+        ],
+        "shinyShapeColor": [
+            0,
+            255,
+            255
+        ],
+        "crasherColor": [
+            255,
+            0,
+            170
+        ],
+        "necroDroneColor": [
+            209,
+            209,
+            209
+        ],
+        "backgroundColor": [
+            171,
+            173,
+            166
+        ],
+        "gridColor": [
+            106,
+            106,
+            106
+        ],
         "gridOpacity": 0.3,
-        "worldBorderColor": "E4FFA6",
+        "worldBorderColor": [
+            228,
+            255,
+            166
+        ],
         "worldBorderOpacity": 0.3,
-        "mazeWallColor": "6A6A6A",
+        "mazeWallColor": [
+            106,
+            106,
+            106
+        ],
         "newOutlines": true,
         "outlineOpacity": 0.25,
-        "oldOutlineColor": "737373",
-        "uiColors": [
-            "AA0057",
-            "D1008B",
-            "FF00AA",
-            "D1008B",
-            "AA0057",
-            "8C0000",
-            "600000",
-            "2F0303"
+        "oldOutlineColor": [
+            115,
+            115,
+            115
         ],
-        "minimapBackgroundColor": "0D3545",
-        "minimapBorderColor": "00FFFF",
-        "barBackground": "2F0303",
-        "scoreBarFillColor": "00FFFF",
-        "xpBarFillColor": "CDFFFF",
-        "leaderboardBarFill": "1F9876",
-        "healthBarBackground": "737373",
-        "healthBarFill": "8C0000"
+        "uiColor1": [
+            170,
+            0,
+            87
+        ],
+        "uiColor2": [
+            209,
+            0,
+            139
+        ],
+        "uiColor3": [
+            255,
+            0,
+            170
+        ],
+        "uiColor4": [
+            209,
+            0,
+            139
+        ],
+        "uiColor5": [
+            170,
+            0,
+            87
+        ],
+        "uiColor6": [
+            140,
+            0,
+            0
+        ],
+        "uiColor7": [
+            96,
+            0,
+            0
+        ],
+        "uiColor8": [
+            47,
+            3,
+            3
+        ],
+        "uiColor9": [
+            175,
+            175,
+            175
+        ],
+        "uiColor10": [
+            153,
+            153,
+            153
+        ],
+        "minimapBackgroundColor": [
+            13,
+            53,
+            69
+        ],
+        "minimapBorderColor": [
+            0,
+            255,
+            255
+        ],
+        "minimapArrowColor": [
+            81,
+            231,
+            203
+        ],
+        "barBackground": [
+            47,
+            3,
+            3
+        ],
+        "scoreBarFillColor": [
+            0,
+            255,
+            255
+        ],
+        "xpBarFillColor": [
+            205,
+            255,
+            255
+        ],
+        "leaderboardBarFill": [
+            31,
+            152,
+            118
+        ],
+        "healthBarBackground": [
+            115,
+            115,
+            115
+        ],
+        "healthBarFill": [
+            140,
+            0,
+            0
+        ]
     }
 }
