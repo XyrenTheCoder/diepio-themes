@@ -43,7 +43,7 @@
         "scoreBarFillColor": "D8EBF9",
         "xpBarFillColor": "D8EBF9",
         "leaderboardBarFill": "6540FF",
-        "healthBarBackground": "180F1A",
-        "healthBarFill": "FF7228"
+        "healthBarBackground": "000000",
+        "healthBarFill": "FF7327"
     }
 }
