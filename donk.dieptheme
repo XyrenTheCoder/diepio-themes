@@ -4,9 +4,9 @@
     "values": {
         "ffaFriendlyColor": "000000",
         "ffaEnemyColor": "FFFFFF",
-        "blueTeamColor": "4919EA",
+        "blueTeamColor": "2600FF",
         "redTeamColor": "FF0118",
-        "purpleTeamColor": "D746F2",
+        "purpleTeamColor": "FF3EFF",
         "greenTeamColor": "2EFF5A",
         "fallenBossColor": "E7E7E4",
         "arenaCloserColor": "FFE869",
