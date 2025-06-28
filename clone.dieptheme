@@ -40,8 +40,8 @@
         "minimapBackgroundColor": "E65B5B",
         "minimapBorderColor": "652A83",
         "barBackground": "000000",
-        "scoreBarFillColor": "D8EBF9",
-        "xpBarFillColor": "D8EBF9",
+        "scoreBarFillColor": "FFFFFF",
+        "xpBarFillColor": "FFFFFF",
         "leaderboardBarFill": "6540FF",
         "healthBarBackground": "000000",
         "healthBarFill": "FF7327"
