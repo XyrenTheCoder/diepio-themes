@@ -15,7 +15,7 @@
         "squareColor": "B45DC6",
         "triangleColor": "CD5B98",
         "pentagonColor": "7751D2",
-        "shinyShapeColor": "2AE5BF",
+        "shinyShapeColor": "5AF5FF",
         "crasherColor": "7D1767",
         "necroDroneColor": "CC8FB9",
         "backgroundColor": "9893C2",
@@ -25,7 +25,7 @@
         "worldBorderOpacity": 1,
         "mazeWallColor": "737D9C",
         "newOutlines": true,
-        "outlineOpacity": 0.25,
+        "outlineOpacity": 0.5,
         "oldOutlineColor": "525252",
         "uiColors": [
             "521435",
