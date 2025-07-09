@@ -69,9 +69,9 @@
             210
         ],
         "shinyShapeColor": [
-            42,
-            229,
-            191
+            90,
+            245,
+            255
         ],
         "crasherColor": [
             125,
@@ -106,7 +106,7 @@
             156
         ],
         "newOutlines": true,
-        "outlineOpacity": 0.25,
+        "outlineOpacity": 0.5,
         "oldOutlineColor": [
             82,
             82,
