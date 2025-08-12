@@ -23,7 +23,7 @@
         "gridOpacity": 0.3,
         "worldBorderColor": "FFFFFF",
         "worldBorderOpacity": 0.1,
-        "mazeWallColor": "BBBBBB",
+        "mazeWallColor": "595959",
         "newOutlines": true,
         "outlineOpacity": -10,
         "oldOutlineColor": "061017",
@@ -42,7 +42,7 @@
         "barBackground": "FEF1E1",
         "scoreBarFillColor": "09C898",
         "xpBarFillColor": "B739D0",
-        "leaderboardBarFill": "7736D9",
+        "leaderboardBarFill": "C35050",
         "healthBarBackground": "FFD4D1",
         "healthBarFill": "BD4200"
     }
