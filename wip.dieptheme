@@ -12,9 +12,9 @@
         "arenaCloserColor": "A0A0BC",
         "cannonColor": "9E9E9E",
         "smasherColor": "3D3D3D",
-        "squareColor": "9D870C",
+        "squareColor": "B76F34",
         "triangleColor": "723636",
-        "pentagonColor": "3C1D87",
+        "pentagonColor": "6E1D8B",
         "shinyShapeColor": "89FF69",
         "crasherColor": "B856E6",
         "necroDroneColor": "E8A14F",
@@ -28,22 +28,22 @@
         "outlineOpacity": -10,
         "oldOutlineColor": "061017",
         "uiColors": [
-            "43FFF9",
-            "82FF43",
-            "FF4343",
-            "FFDE43",
-            "437FFF",
-            "8543FF",
-            "F943FF",
-            "FCAD76"
+            "11DCA9",
+            "2FC2B1",
+            "4DA7B9",
+            "6B8DC1",
+            "8A72C9",
+            "A858D1",
+            "C63DD9",
+            "E423E1"
         ],
-        "minimapBackgroundColor": "8C9AB1",
+        "minimapBackgroundColor": "6C737F",
         "minimapBorderColor": "A2EBEC",
-        "barBackground": "FFFFFF",
+        "barBackground": "FEF1E1",
         "scoreBarFillColor": "09C898",
         "xpBarFillColor": "B739D0",
-        "leaderboardBarFill": "FF5900",
-        "healthBarBackground": "D59F9F",
-        "healthBarFill": "C74600"
+        "leaderboardBarFill": "7736D9",
+        "healthBarBackground": "FFD4D1",
+        "healthBarFill": "BD4200"
     }
 }
