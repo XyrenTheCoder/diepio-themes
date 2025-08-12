@@ -23,7 +23,7 @@
         "gridOpacity": 0.3,
         "worldBorderColor": "FFFFFF",
         "worldBorderOpacity": 0.1,
-        "mazeWallColor": "595959",
+        "mazeWallColor": "424242",
         "newOutlines": true,
         "outlineOpacity": -10,
         "oldOutlineColor": "061017",
