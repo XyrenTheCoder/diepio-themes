@@ -4,49 +4,49 @@
     "version": 2,
     "values": {
         "ffaFriendlyColor": [
-            105,
-            105,
-            186
+            25,
+            63,
+            92
         ],
         "ffaEnemyColor": [
-            186,
-            105,
-            105
+            90,
+            12,
+            65
         ],
         "blueTeamColor": [
-            81,
-            184,
-            184
+            63,
+            162,
+            162
         ],
         "redTeamColor": [
-            184,
-            184,
-            81
+            162,
+            162,
+            63
         ],
         "purpleTeamColor": [
-            184,
-            81,
-            184
+            162,
+            63,
+            162
         ],
         "greenTeamColor": [
-            81,
-            184,
-            81
+            63,
+            162,
+            63
         ],
         "fallenBossColor": [
-            46,
-            46,
-            46
+            20,
+            20,
+            20
         ],
         "arenaCloserColor": [
-            46,
-            46,
-            46
+            20,
+            20,
+            20
         ],
         "cannonColor": [
-            158,
-            158,
-            158
+            115,
+            115,
+            115
         ],
         "smasherColor": [
             61,
@@ -84,16 +84,16 @@
             79
         ],
         "backgroundColor": [
-            74,
-            77,
-            79
+            46,
+            50,
+            51
         ],
         "gridColor": [
             108,
             132,
             147
         ],
-        "gridOpacity": 0.3,
+        "gridOpacity": 0.1,
         "worldBorderColor": [
             255,
             255,
@@ -175,14 +175,14 @@
         ],
         "lobbyBackgroundColor": "dark",
         "minimapBackgroundColor": [
-            108,
-            115,
-            127
+            82,
+            96,
+            107
         ],
         "minimapBorderColor": [
-            162,
-            235,
-            236
+            255,
+            255,
+            255
         ],
         "minimapArrowColor": [
             255,
