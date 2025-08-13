@@ -1,223 +1,212 @@
 {
-    "name": "Hyperspace",
+    "name": "Precise",
     "author": "A76",
     "version": 2,
     "values": {
         "ffaFriendlyColor": [
-            25,
-            63,
-            92
+            212,
+            212,
+            212
         ],
         "ffaEnemyColor": [
-            90,
-            12,
-            65
+            143,
+            0,
+            0
         ],
         "blueTeamColor": [
-            63,
-            162,
-            162
+            159,
+            186,
+            188
         ],
         "redTeamColor": [
-            162,
-            162,
-            63
+            184,
+            137,
+            137
         ],
         "purpleTeamColor": [
-            162,
-            63,
-            162
+            168,
+            143,
+            188
         ],
         "greenTeamColor": [
-            63,
-            162,
-            63
+            135,
+            176,
+            155
         ],
         "fallenBossColor": [
-            20,
-            20,
-            20
+            198,
+            198,
+            198
         ],
         "arenaCloserColor": [
-            20,
-            20,
-            20
+            170,
+            161,
+            110
         ],
         "cannonColor": [
-            115,
-            115,
-            115
+            153,
+            153,
+            153
         ],
         "smasherColor": [
-            61,
-            61,
-            61
+            153,
+            153,
+            153
         ],
         "squareColor": [
-            183,
-            111,
-            52
+            107,
+            107,
+            107
         ],
         "triangleColor": [
-            114,
-            54,
-            54
+            153,
+            153,
+            153
         ],
         "pentagonColor": [
-            110,
-            29,
-            139
+            181,
+            181,
+            181
         ],
         "shinyShapeColor": [
-            107,
-            255,
-            230
+            238,
+            0,
+            255
         ],
         "crasherColor": [
             184,
-            86,
-            230
+            0,
+            135
         ],
         "necroDroneColor": [
-            232,
-            161,
-            79
+            143,
+            0,
+            0
         ],
         "backgroundColor": [
-            46,
-            50,
-            51
+            28,
+            22,
+            29
         ],
         "gridColor": [
-            108,
-            132,
-            147
+            161,
+            161,
+            161
         ],
         "gridOpacity": 0.1,
         "worldBorderColor": [
-            255,
-            255,
-            255
+            121,
+            121,
+            121
         ],
         "worldBorderOpacity": 0.1,
         "mazeWallColor": [
-            66,
-            66,
-            66
+            187,
+            187,
+            187
         ],
         "newOutlines": true,
-        "outlineOpacity": -10,
+        "outlineOpacity": 0.5,
         "oldOutlineColor": [
-            6,
-            16,
-            23
-        ],
-        "enableShadows": false,
-        "shadowBlur": 15,
-        "shadowXOffset": 6,
-        "shadowYOffset": 6,
-        "shadowOpacity": 0.14,
-        "useObjectColorForShadow": false,
-        "shadowColor": [
-            0,
-            0,
-            0
+            85,
+            85,
+            85
         ],
         "uiColor1": [
-            17,
-            220,
-            169
+            135,
+            197,
+            195
         ],
         "uiColor2": [
-            47,
-            194,
-            177
+            147,
+            201,
+            120
         ],
         "uiColor3": [
-            77,
-            167,
-            185
+            208,
+            138,
+            138
         ],
         "uiColor4": [
-            107,
-            141,
-            193
+            204,
+            192,
+            138
         ],
         "uiColor5": [
             138,
-            114,
-            201
+            157,
+            193
         ],
         "uiColor6": [
-            168,
-            88,
-            209
+            167,
+            150,
+            202
         ],
         "uiColor7": [
-            198,
-            61,
-            217
+            216,
+            143,
+            219
         ],
         "uiColor8": [
-            228,
-            35,
-            225
+            202,
+            163,
+            134
         ],
         "uiColor9": [
-            198,
-            153,
-            204
+            175,
+            175,
+            175
         ],
         "uiColor10": [
-            108,
-            115,
-            127
+            153,
+            153,
+            153
         ],
-        "lobbyBackgroundColor": "dark",
+        "lobbyBackgroundColor": "light",
         "minimapBackgroundColor": [
-            82,
-            96,
-            107
+            205,
+            205,
+            205
         ],
         "minimapBorderColor": [
-            255,
-            255,
-            255
+            121,
+            121,
+            121
         ],
         "minimapArrowColor": [
-            255,
-            255,
-            255
+            0,
+            0,
+            0
         ],
         "barBackground": [
-            254,
-            241,
-            225
+            0,
+            0,
+            0
         ],
         "scoreBarFillColor": [
-            9,
-            200,
-            152
+            66,
+            255,
+            217
         ],
         "xpBarFillColor": [
-            183,
-            57,
-            208
+            123,
+            0,
+            168
         ],
         "leaderboardBarFill": [
-            195,
-            80,
-            80
+            143,
+            0,
+            0
         ],
         "healthBarBackground": [
-            255,
-            212,
-            209
+            85,
+            85,
+            85
         ],
         "healthBarFill": [
-            189,
             66,
-            0
+            255,
+            217
         ]
     }
 }
