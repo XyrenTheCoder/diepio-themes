@@ -16,8 +16,8 @@
         "triangleColor": "2B2541",
         "pentagonColor": "253341",
         "shinyShapeColor": "454545",
-        "crasherColor": "521E37",
-        "necroDroneColor": "FCC376",
+        "crasherColor": "5B1A3A",
+        "necroDroneColor": "4D5B1A",
         "backgroundColor": "2E345E",
         "gridColor": "FFFFFF",
         "gridOpacity": 0.1,
@@ -26,7 +26,7 @@
         "mazeWallColor": "939DAB",
         "newOutlines": true,
         "outlineOpacity": -10,
-        "oldOutlineColor": "555555",
+        "oldOutlineColor": "F0F0F0",
         "uiColors": [
             "43FFF9",
             "82FF43",
@@ -37,13 +37,13 @@
             "F943FF",
             "FCAD76"
         ],
-        "minimapBackgroundColor": "CDCDCD",
-        "minimapBorderColor": "797979",
+        "minimapBackgroundColor": "0F1C3B",
+        "minimapBorderColor": "7C7E9F",
         "barBackground": "000000",
-        "scoreBarFillColor": "43FF91",
-        "xpBarFillColor": "FFDE43",
+        "scoreBarFillColor": "ACC5EA",
+        "xpBarFillColor": "584870",
         "leaderboardBarFill": "64FF8C",
-        "healthBarBackground": "555555",
-        "healthBarFill": "A9FFAA"
+        "healthBarBackground": "121212",
+        "healthBarFill": "FE5887"
     }
 }
