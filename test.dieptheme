@@ -28,14 +28,14 @@
         "outlineOpacity": -10,
         "oldOutlineColor": "F0F0F0",
         "uiColors": [
-            "43FFF9",
-            "82FF43",
-            "FF4343",
-            "FFDE43",
-            "437FFF",
-            "8543FF",
-            "F943FF",
-            "FCAD76"
+            "CBDFFC",
+            "BECAEB",
+            "B2B5D9",
+            "A5A0C8",
+            "998AB7",
+            "8C75A6",
+            "806094",
+            "734B83"
         ],
         "minimapBackgroundColor": "455782",
         "minimapBorderColor": "7C7E9F",
