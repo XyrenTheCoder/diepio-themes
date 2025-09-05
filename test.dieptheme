@@ -13,8 +13,8 @@
         "cannonColor": "878787",
         "smasherColor": "707070",
         "squareColor": "392541",
-        "triangleColor": "2B2541",
-        "pentagonColor": "253841",
+        "triangleColor": "292541",
+        "pentagonColor": "192541",
         "shinyShapeColor": "FAFAFF",
         "crasherColor": "700554",
         "necroDroneColor": "3A1F5C",
@@ -46,4 +46,4 @@
         "healthBarBackground": "121212",
         "healthBarFill": "FDB4EA"
     }
-}
+}s
