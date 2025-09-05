@@ -16,7 +16,7 @@
         "triangleColor": "2B2541",
         "pentagonColor": "253841",
         "shinyShapeColor": "454545",
-        "crasherColor": "5B1A3A",
+        "crasherColor": "700554",
         "necroDroneColor": "3A1F5C",
         "backgroundColor": "2E345E",
         "gridColor": "FFFFFF",
@@ -44,6 +44,6 @@
         "xpBarFillColor": "DC95EA",
         "leaderboardBarFill": "D459CA",
         "healthBarBackground": "121212",
-        "healthBarFill": "FEB4C9"
+        "healthBarFill": "FDB4EA"
     }
 }
