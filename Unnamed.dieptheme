@@ -10,13 +10,13 @@
         "greenTeamColor": "65D7BB",
         "fallenBossColor": "FFFFFF",
         "arenaCloserColor": "FFFFFF",
-        "cannonColor": "000000",
-        "smasherColor": "EB009C",
+        "cannonColor": "8F8F8F",
+        "smasherColor": "8F8F8F",
         "squareColor": "896699",
         "triangleColor": "877C5E",
-        "pentagonColor": "5E7A5C",
+        "pentagonColor": "566795",
         "shinyShapeColor": "FFFFFF",
-        "crasherColor": "587684",
+        "crasherColor": "955F5F",
         "necroDroneColor": "6B3D5F",
         "backgroundColor": "34283E",
         "gridColor": "000000",
@@ -24,9 +24,9 @@
         "worldBorderColor": "301533",
         "worldBorderOpacity": 1,
         "mazeWallColor": "301533",
-        "newOutlines": false,
+        "newOutlines": true,
         "outlineOpacity": 0.8,
-        "oldOutlineColor": "000000",
+        "oldOutlineColor": "070707",
         "uiColors": [
             "79B2C2",
             "81A8BE",
@@ -38,12 +38,12 @@
             "B469A6"
         ],
         "minimapBackgroundColor": "612B7D",
-        "minimapBorderColor": "EB009C",
+        "minimapBorderColor": "825A90",
         "barBackground": "2B1537",
         "scoreBarFillColor": "D671FE",
         "xpBarFillColor": "FB9C6C",
         "leaderboardBarFill": "612B7D",
         "healthBarBackground": "000000",
-        "healthBarFill": "EB009C"
+        "healthBarFill": "726AAF"
     }
 }
